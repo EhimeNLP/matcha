@@ -10,6 +10,7 @@
   2. 難解な文と平易な文が 何文 対 何文 で対応しているか
   3. 抽出されたテキストがタイトル（title, subtitle, subsubtitle）または本文（body）のどちらであるか
   <br>
+  
   | matcha_jsai.comp | matha_jsai.simp | matcha_jsai.tag |
   | :--- | :--- | :--- | 
   | そこでネズミを退治するため、島で育てられたのが猫だったのです。 | そのとき、島の人は猫にネズミをとってもらいました。それで、猫をたくさん育てました。 | Align\t1-2\t[body] |
