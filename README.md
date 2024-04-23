@@ -21,10 +21,20 @@
 <br>
   
 ## 文献情報
-惟高日向, 山内洋輝, 柳本大輝, 宮田莉奈, 梶原智之, 二宮崇, 西脇靖紘. <br>
-専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの試作. <br>
-人工知能学会第37回全国大会 (JSAI), June 2023.\[[PDF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Xin414/_article/-char/ja/)\]
 
-宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
-専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの構築. <br>
-NLP若手の会第18回シンポジウム (YANS), August 2023.\[[PDF](https://moguranosenshi.sakura.ne.jp/files/yans2023-miyata.pdf)\]
+\[1\] 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, 西脇靖紘. <br>
+&emsp;&nbsp;&nbsp;MATCHA：専門家が平易化した記事を用いたやさしい日本語パラレルコーパス. <br>
+&emsp;&nbsp;&nbsp;自然言語処理, Vol.31, No.2, June 2024. (掲載予定) <br>
+
+\[2\] 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
+&emsp;&nbsp;&nbsp;専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの構築. <br>
+&emsp;&nbsp;&nbsp;NLP若手の会第18回シンポジウム (YANS), August 2023.\[[PDF](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Xin414/_article/-char/ja/)\]
+
+\[3\] 惟高日向, 山内洋輝, 柳本大輝, 宮田莉奈, 梶原智之, 二宮崇, 西脇靖紘. <br>
+&emsp;&nbsp;&nbsp;専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの試作. <br>
+&emsp;&nbsp;&nbsp;人工知能学会第37回全国大会 (JSAI), June 2023.\[[PDF](https://moguranosenshi.sakura.ne.jp/files/yans2023-miyata.pdf)\]
+
+## 更新履歴
+2024年4月23日&emsp;Ver.1.0&ensp;論文誌の投稿に合わせて公開 <br>
+2023年8月25日&emsp;Ver.0.2&ensp;[YANS](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Xin414/_article/-char/ja/)の発表に合わせて拡張 <br>
+2023年5月&ensp;&nbsp;1日&emsp;Ver.0.1&ensp;[JSAI](https://moguranosenshi.sakura.ne.jp/files/yans2023-miyata.pdf)の発表に合わせて一部公開 <br>
