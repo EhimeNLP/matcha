@@ -10,14 +10,14 @@
 2023年5月&ensp;&nbsp;1日&emsp;Ver.0.1&ensp;[JSAI](https://doi.org/10.11517/pjsai.JSAI2023.0_3Xin414)の発表に合わせて一部公開 <br>
 
 ## ファイルについて
-- `matcha_jsai.comp`と`matcha_jsai.simp`にそれぞれ難解な文と平易な文が行ごとにペアになって含まれています。
-- `matcha_jsai.tag`には各行の文対のそれぞれに対して以下の3つの情報がタブ区切りで書き込まれています。
+- `matcha.comp`と`matcha.simp`にそれぞれ難解な文と平易な文が行ごとにペアになって含まれています。
+- `matcha.tag`には各行の文対のそれぞれに対して以下の3つの情報がタブ区切りで書き込まれています。
   1. 難解な文と平易な文の意味的な対応が 完全一致（Align）または 部分一致（Partial）のどちらであるか
   2. 難解な文と平易な文が 何文 対 何文 で対応しているか
   3. 抽出されたテキストがタイトル（title, subtitle, subsubtitle）または本文（body）のどちらであるか
   <br>
   
-  | matcha_jsai.comp | matha_jsai.simp | matcha_jsai.tag |
+  | matcha.comp | matha.simp | matcha.tag |
   | :--- | :--- | :--- | 
   | そこでネズミを退治するため、島で育てられたのが猫だったのです。 | そのとき、島の人は猫にネズミをとってもらいました。それで、猫をたくさん育てました。 | Align\t1-2\t[body] |
   | ネズミを退治するほかにも、島の猫は漁師が捨てた魚の頭や骨などを食べて生活していました。 | 猫はネズミをとったり、漁師(魚をとって生活する人)が捨てた魚の頭や骨(Bone)などを食べたりしました。 | Partial\t1-1\t[body] |
