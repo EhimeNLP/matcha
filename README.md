@@ -6,8 +6,8 @@
 
 ## 更新履歴
 2024年4月23日&emsp;Ver.1.0&ensp;論文誌の投稿に合わせて公開 <br>
-2023年8月25日&emsp;Ver.0.2&ensp;[YANS](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Xin414/_article/-char/ja/)の発表に合わせて拡張 <br>
-2023年5月&ensp;&nbsp;1日&emsp;Ver.0.1&ensp;[JSAI](https://moguranosenshi.sakura.ne.jp/files/yans2023-miyata.pdf)の発表に合わせて一部公開 <br>
+2023年8月25日&emsp;Ver.0.2&ensp;[YANS](https://moguranosenshi.sakura.ne.jp/files/yans2023-miyata.pdf)の発表に合わせて拡張 <br>
+2023年5月&ensp;&nbsp;1日&emsp;Ver.0.1&ensp;[JSAI](https://doi.org/10.11517/pjsai.JSAI2023.0_3Xin414)の発表に合わせて一部公開 <br>
 
 ## ファイルについて
 - `matcha_jsai.comp`と`matcha_jsai.simp`にそれぞれ難解な文と平易な文が行ごとにペアになって含まれています。
