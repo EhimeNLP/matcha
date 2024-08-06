@@ -5,7 +5,7 @@
 16,000件を公開します。<br>
 
 ## 更新履歴
-2024年4月23日&emsp;Ver.1.0&ensp;論文誌の投稿に合わせて公開 <br>
+2024年4月23日&emsp;Ver.1.0&ensp;[論文誌](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_590/_article/-char/ja)の投稿に合わせて公開 <br>
 2023年8月25日&emsp;Ver.0.2&ensp;[YANS](https://moguranosenshi.sakura.ne.jp/files/yans2023-miyata.pdf)の発表に合わせて拡張 <br>
 2023年5月&ensp;&nbsp;1日&emsp;Ver.0.1&ensp;[JSAI](https://doi.org/10.11517/pjsai.JSAI2023.0_3Xin414)の発表に合わせて一部公開 <br>
 
@@ -28,7 +28,7 @@
 ## 文献情報
 
 \[1\] 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, 西脇靖紘. <br>
-&emsp;&nbsp;&nbsp;MATCHA：専門家が平易化した記事を用いたやさしい日本語パラレルコーパス. <br>
+&emsp;&nbsp;&nbsp;[MATCHA：専門家が平易化した記事を用いたやさしい日本語パラレルコーパス](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_590/_article/-char/ja). <br>
 &emsp;&nbsp;&nbsp;自然言語処理, Vol.31, No.2, pp.590-609, June 2024. <br>
 
 \[2\] 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
