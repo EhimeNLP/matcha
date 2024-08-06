@@ -29,7 +29,7 @@
 
 \[1\] 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, 西脇靖紘. <br>
 &emsp;&nbsp;&nbsp;MATCHA：専門家が平易化した記事を用いたやさしい日本語パラレルコーパス. <br>
-&emsp;&nbsp;&nbsp;自然言語処理, Vol.31, No.2, June 2024. (掲載予定) <br>
+&emsp;&nbsp;&nbsp;自然言語処理, Vol.31, No.2, pp.590-609, June 2024. <br>
 
 \[2\] 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
 &emsp;&nbsp;&nbsp;[専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの構築](https://moguranosenshi.sakura.ne.jp/files/yans2023-miyata.pdf). <br>
